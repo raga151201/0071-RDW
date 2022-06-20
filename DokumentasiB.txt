@@ -1,0 +1,17 @@
+👉Matakuliah ini membahas tentang berbagai konsep dasar pemrograman berorientasi obyek dan pemrograman visual, yaitu : Obyek, Properti, Event, Pengkapsulan, Pewarisan dan Polymorphisme.
+
+👉 Tujuan utama dari mata kuliah ini adalah mendorong kemampuan teknis dan analisis mahasiswa dalam menggunakan konsep-konsep pemrograman objek  
+
+Pokok Bahasan:
+
+
+1.pemograman berorientasi objek
+2.type data,variabel dan operator
+3.instruksi pemilihan
+4.instruksi perulangan
+5.array(larik)
+6.Enkapsulasi
+7.polymorphism abstract class dan interface
+8.exception handling
+9.Gui(graphical user interface)
+10.Java Gui(graphical user interface)
